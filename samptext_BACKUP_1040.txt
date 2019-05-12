@@ -1,5 +1,8 @@
 Hey there ready to practise something.
 Done initial commit.
+<<<<<<< HEAD
 Going for third commit in master branch.
-Changes for commits in third branch.
-
+=======
+Performs 2 commits in second branch.
+Now i stash.
+>>>>>>> secondbranch
