@@ -1,0 +1,4 @@
+Hey there ready to practise something.
+Done initial commit.
+Performs 2 commits in second branch.
+Now i stash.
